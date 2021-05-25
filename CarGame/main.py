@@ -1,9 +1,10 @@
-'''
-    File name: main.py
+"""
+    Project name: CarGame
     Author: Ömer Ünal
     Date created: 24/05/2021
     Python Version: 3.9
-'''
+    
+"""
 
 import time
 from turtle import Screen
