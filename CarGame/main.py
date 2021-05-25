@@ -1,3 +1,10 @@
+'''
+    File name: main.py
+    Author: Ömer Ünal
+    Date created: 24/05/2021
+    Python Version: 3.9
+'''
+
 import time
 from turtle import Screen
 from player import Player
