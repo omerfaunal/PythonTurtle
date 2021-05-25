@@ -1,10 +1,10 @@
-'''
-    File name: main.py
+"""
+    Project name: SnakeGame
     Author: Ömer Ünal
     Date created: 24/05/2021
     Python Version: 3.9
     
-'''
+"""
 
 from turtle import Screen
 from snake import Snake
