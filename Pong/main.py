@@ -1,10 +1,10 @@
-'''
-    File name: main.py
+"""
+    Project name: Pong
     Author: Ömer Ünal
     Date created: 24/05/2021
     Python Version: 3.9
     
-'''
+"""
 
 from scoreboard import ScoreBoard
 from turtle import Screen
